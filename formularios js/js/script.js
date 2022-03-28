@@ -4,4 +4,4 @@
 	var age = document.getElementById('edad').value;
 
 	alert(name + name2 + age);
-}
+} 
